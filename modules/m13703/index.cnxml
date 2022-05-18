@@ -1,0 +1,426 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>my title</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8d56995a-ba4c-4877-8c51-426458e468e3</md:uuid>
+</metadata>
+<content>
+<para id="id5264178">Giới thiệu</para>
+<para id="id5087538">Claroline là một hệ thống quản lý bài giảng
+được chạy trên đa hệ điều hành. Công cụ này cho phép các thầy cô
+tạo, quản lý và cung cấp bài giảng trên môi trường web. Cụ thể hệ
+thống này giúp các thầy cô có thể thực hiện các việc sau:</para>
+<list list-type="bulleted" id="id5078870">
+<item>Đưa lên mạng các tài liệu dưới nhiều dạng (Word, PDF, HTML,
+Video,...)</item>
+</list>
+<list list-type="bulleted" id="id5730434">
+<item>Tạo các diễn đàn thảo luận (discussion forum) chung và riêng
+cho các nhóm làm việc</item>
+</list>
+<list list-type="bulleted" id="id5077649">
+<item>Quản lý danh sách các liên kết</item>
+</list>
+<list list-type="bulleted" id="id5471950">
+<item>Tạo các nhóm học của sinh viên</item>
+</list>
+<list list-type="bulleted" id="id5732651">
+<item>Soạn thảo các bài tập</item>
+</list>
+<list list-type="bulleted" id="id5731514">
+<item>Xây dựng một lịch làm việc của bài giảng và các thời
+hạn</item>
+</list>
+<list list-type="bulleted" id="id5676163">
+<item>Tạo các thông báo (có thể được gửi tới email của sinh
+viên)</item>
+</list>
+<list list-type="bulleted" id="id5440879">
+<item>Cho phép sinh viên gửi bài viết</item>
+</list>
+<para id="id5442902">Đăng nhập/Đăng nhập lại</para>
+<para id="id5442905">Để có thể làm việc với hệ thống, các thầy cô
+luôn luôn phải nhập một tên đăng nhập và mật khẩu hợp lệ. Tên đăng
+nhập và mật khẩu này sẽ được cung cấp bởi người quản trị hoặc tự
+đăng ký nếu hệ thống cho phép.</para>
+<para id="id5550680">
+<figure id="id4640629">
+<media id="idm177200" alt=""><image src="../../media/Graphic1.png" mime-type="image/png"/></media>
+</figure>
+</para>
+<section id="id5731637">
+<title>Sau khi đăng nhập vào hệ thống, để tạo bài giảng mới làm như
+sau:</title>
+<list list-type="bulleted" id="id5436941">
+<item>Nhập tên bài giảng</item>
+</list>
+<list list-type="bulleted" id="id5436950">
+<item>Chọn lĩnh vực của bài giảng</item>
+</list>
+<list list-type="bulleted" id="id5282015">
+<item>Nhập mã bài giảng</item>
+</list>
+<list list-type="bulleted" id="id5282025">
+<item>Xác nhận tên của thầy cô</item>
+</list>
+<list list-type="bulleted" id="id5282034">
+<item>Chọn ngôn ngữ cho bài giảng</item>
+</list>
+<list list-type="bulleted" id="id5442626">
+<item>Chọn 'OK' để xác nhận</item>
+</list>
+</section>
+<section id="id5442643">
+<title>Quản lý bài giảng</title>
+<para id="id5442650">Từ mục "Danh sách Bài giảng' (sau khi Thầy Cô
+đã đăng nhập thành công vào hệ thống và đã có các trang web của bài
+giảng)</para>
+<para id="id5731556">Nhấp vào tựa của bài giảng mà Thầy Cô muốn vào
+phần quản lý</para>
+<figure id="id5731563">
+<media id="idm576816" alt=""><image src="../../media/Graphic3.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5730506">Lịch</para>
+<figure id="id5730512">
+<media id="idm8897136" alt=""><image src="../../media/Graphic4.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5730536">Để thêm một mục lịch mới:</para>
+<list list-type="bulleted" id="id5730540">
+<item>Chọn ngày, tháng, năm, giờ, phút.</item>
+<item>Thời gian kéo dài bao lâu.</item>
+<item>Nhập tựa của lịch</item>
+<item>Nội dung chi tiết của lịch</item>
+<item>Nhấp 'Thực hiện'</item>
+</list>
+<para id="id5761820">Lịch mới sẽ xuất hiện trong danh sách
+lịch</para>
+<para id="id5761826">Để sửa nội dung của một lịch đã tạo:</para>
+<list list-type="bulleted" id="id5761831">
+<item>Nhấp vào hình cây bút chì màu vàng ngay phía dưới của lịch
+đó</item>
+<item>Thay đổi các chi tiết của lịch</item>
+<item>Nhấp 'Thực hiện' để chấp nhận</item>
+</list>
+<para id="id5761856">Để xóa một lịch đã tạo:</para>
+<list list-type="bulleted" id="id5761860">
+<item>Chọn biểu tượng chử X màu đỏ ngay phía dưới lịch để
+xóa</item>
+</list>
+<para id="id5761874">Tài liệu học</para>
+<figure id="id5761882">
+<media id="idm1234144" alt=""><image src="../../media/Graphic5.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5761909">Phần này cung cấp công cụ để tổ chức các tập
+tin mà Thầy Cô muốn đưa lên để sinh viên tham khảo. Ở đây có thể
+tạo các thư mục vá các thư mục con để tổ chức các tập tin theo
+nhóm.</para>
+<para id="id5761922">Có thể:</para>
+<list list-type="bulleted" id="id5761926">
+<item>Xóa</item>
+<item>Di chuyển</item>
+<item>Đổi tên</item>
+<item>Thêm chú thích</item>
+<item>Không cho sinh viên thấy các tập tin</item>
+</list>
+<para id="id5761959">Tạo thư mục:</para>
+<list list-type="bulleted" id="id5761964">
+<item>Chọn liên kết 'Tạo thư mục'</item>
+<item>Nhập tên thư mục</item>
+<item>Nhấp 'OK' để tạo thư mục</item>
+<item>Chép các tập tin vào một thư mục:</item>
+</list>
+<list list-type="bulleted" id="id5761993">
+<item>Chọn thư mục mà Thầy Cô muốn chép tập tin vào</item>
+<item>Chọn nút 'Browse...'</item>
+<item>Chọn tập tin mà Thầy Cô muốn chép</item>
+<item>Chọn nút 'Tải lên'</item>
+</list>
+<para id="id5471720">Khi hoàn thành Thầy Cô sẽ thấy tên của các tập
+tin đã chép.</para>
+<para id="id5471726">Chú ý. Có 2 giới hạn về kích thước . Kích
+thước tập tin phải nhỏ hơn 10Mb, Và kích thước tổng cộng của các
+tập tin chép lên không được vượt qúa 30 Mb. Nếu Thầy Cô muốn tăng
+kích thước tổng cộng này thì phải liên hệ với người quản trị hệ
+thống.</para>
+<para id="id5471741">Đổi tên tập tin:</para>
+<list list-type="bulleted" id="id5471745">
+<item>Chọn biểu tượng cây bút chì ở cột 'Đổi tên' cùng dòng với tập
+tin mà Thầy Cô muốn đổi tên</item>
+<item>Nhập tên mới</item>
+<item>Chọn 'OK' để thay đổi tên</item>
+</list>
+<para id="id5471770">Thêm chú thích</para>
+<list list-type="bulleted" id="id5471776">
+<item>Chọn biểu tượng ở cột 'Chú thích' cùng dòng với tập tin mà
+Thầy Cô muốn thêm chú thích</item>
+<item>Nhập chú thích</item>
+<item>Chọn 'OK' để thêm chú thích</item>
+</list>
+<para id="id5471801">Giấu một tập tin</para>
+<list list-type="bulleted" id="id5471807">
+<item>Chọn biểu tượng con mắt mở ở cột 'Xem được/Không' cùng dòng
+với tập tin mà Thầy Cô muốn giấu</item>
+</list>
+<list list-type="bulleted" id="id5471820">
+<item>Biểu tượng sẽ chuyển thành con mắt đóng</item>
+</list>
+<para id="id5471830">Để hiển thị một tập tin</para>
+<list list-type="bulleted" id="id5471835">
+<item>Chọn biểu tượng con mắt đóng ở cột 'Xem được/Không' cùng dòng
+với tập tin mà Thầy Cô muốn hiển thị</item>
+</list>
+<list list-type="bulleted" id="id5471848">
+<item>Biểu tượng sẽ chuyển thành con mắt mở</item>
+</list>
+<para id="id5471858">Di chuyển một tập tin </para>
+<list list-type="bulleted" id="id5471864">
+<item>Chọn biểu tượng di chuyển ở cột 'Di chuyển' cùng dòng với tập
+tin mà Thầy Cô muốn di chuyển</item>
+<item>Chọn thư mục mà Thầy Cô muốn di chuyển đến</item>
+</list>
+<para id="id5471884">Xóa một tập tin từ máy chủ</para>
+<list list-type="bulleted" id="id5471890">
+<item>Chọn biểu tượng chử X màu đỏ ở cột 'Xóa' cùng dòng với tập
+tin mà Thầy Cô muốn xóa.</item>
+</list>
+<para id="id5471902">Các thông báo</para>
+<figure id="id5442232">
+<media id="idm1154672" alt=""><image src="../../media/Graphic6.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5442258">Thêm một thông báo</para>
+<list list-type="bulleted" id="id5442264">
+<item>Nhập chủ đề và nội dung của thông báo</item>
+<item>Đánh dấu ở mục 'Gởi thông báo này bằng email cho sinh viên đã
+đăng ký bài giảng này' nếu muốn</item>
+<item>Nhấp 'OK'</item>
+</list>
+<para id="id5442287">Sửa thông báo đã tạo</para>
+<list list-type="bulleted" id="id5442293">
+<item>Nhấp vào biểu tượng cây bút chì ngay phía dưới thông
+báo.</item>
+<item>Cập nhật lại nội dung.</item>
+<item>Nhấp 'Ok'</item>
+</list>
+<para id="id5442317">Xóa thông báo đã tạo </para>
+<list list-type="bulleted" id="id5442323">
+<item>Nhấp vào biểu tượng cây bút chì ngay phía dưới thông
+báo.</item>
+</list>
+</section>
+<section id="id5442421">
+<title>Diễn đàn</title>
+<para id="id5442428">Chọn mục 'Diễn đàn' trong phần 'Quản lý Bài
+giảng'</para>
+<para id="id5442435">Để gởi bài, dùng tương tự như trong phần hướng
+dẫn dành cho sinh viênĐể quản lý diễn đàn (tạo, xóa diễn đàn, sửa
+tên diễn đàn...), chọn mục 'Quản trị diễn đàn'</para>
+<para id="id5731134">
+<figure id="id5731140">
+<media id="idm1790016" alt=""><image src="../../media/Graphic7.png" mime-type="image/png"/></media>
+</figure>
+</para>
+<para id="id5731169">Tạo một hạng mục</para>
+<list list-type="bulleted" id="id5731174">
+<item>Nhập tên hạng mục</item>
+<item>Chọn nút 'Thêm'</item>
+<item>Các hạng mục của Thầy Cô sinh viên sẽ không thấy được cho đến
+khi Thầy Cô thêm các diễn đàn vào mỗi hạng mục!</item>
+</list>
+<para id="id5731200">Xóa một hạng mục</para>
+<list list-type="bulleted" id="id5731205">
+<item>Chọn biểu tượng chữ X màu đỏ ở cột 'Xóa' cùng dòng với hạng
+mục muốn xóa</item>
+</list>
+<para id="id5731217">Thay đổi một hạng mục</para>
+<list list-type="bulleted" id="id5731222">
+<item>Chọn biểu tượng cây bút chì ở cột sửa cùng dòng với hạng mục
+muốn sửa</item>
+<item>Đổi tên của hạng mục</item>
+<item>Nhấp vào nút ‘OK’</item>
+</list>
+<para id="id5731245">Để Thêm/Sữa/Xóa các diễn đàn trong mỗi hạng
+mục</para>
+<list list-type="bulleted" id="id5731251">
+<item>Chọn Diễn đàn đó</item>
+</list>
+<para id="id5731260">Các thao tác giống như với hạng mục</para>
+<para id="id5731269">Các liên kết</para>
+<para id="id5731274">Để thêm một liên kết</para>
+<para id="id5731278">1. Nhập địa chỉ URL của liên kết</para>
+<para id="id5731284">2. Nhập tên của liên kết (để tạo liên kết tới
+địa chỉ trên)</para>
+<para id="id5731291">3. Nhập mô tả về nội dung tại liên kết</para>
+<para id="id5731297">4. Chọn ‘OK’</para>
+<para id="id5731305">Trang dành cho sinh viên</para>
+<para id="id5731310">Hiện tại mục này cho phép các học viên đưa tài
+liệu hay bài viết lên để mọi người trong lớp cùng xem.</para>
+<para id="id5731322">Người dùng</para>
+<figure id="id5731330">
+<media id="idm8292720" alt=""><image src="../../media/Graphic8.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5731357">Phần này cho phép Thầy Cô quản lý những người
+đã đăng ký học bài giảng của mình</para>
+<para id="id5731364">Để thêm, nhấp chuột vào mục ‘Thêm sinh
+viên’</para>
+<para id="id5731370">Điền đầy đủ thông tin cá nhân và địa chỉ email
+để các học viên có thể nhận username/password bằng emial của
+họ</para>
+<para id="id5731376">Để xóa, nhấp vào biểu tượng ‘X’ màu đỏ cùng
+dòng với học viên muốn xóa. Các học viên bị xóa vẫn tồn tại trên
+CSDL, nhưng học không thể xem bài giảng của Thầy Cô nữa.</para>
+<para id="id5731384">Để thêm một người Quản lý bài giảng, cách đơn
+giản nhất là bảo họ đăng ký vào hện thống với vai trò là sinh viên,
+sau đó tham gia học môn của Thầy Cô, và Thầy Cô chỉ việc gán chức
+năng ‘Người quản lý bài giảng’ cho username của họ.</para>
+<para id="id5731402">Nhóm</para>
+<figure id="id5731410">
+<media id="idp160480" alt=""><image src="../../media/Graphic9.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5731434">Thầy Cô cón thể phân chia các học viên thành
+các nhóm.</para>
+<para id="id5732096">Để tạo các nhóm:</para>
+<para id="id5732100">Chọn mục ‘Tạo nhóm mới’</para>
+<para id="id5732105">Nhập các giá trị theo yêu cầu, gồm số nhóm sẽ
+tạo và số thành viên tối đa trong mỗi nhóm</para>
+<para id="id5732113">Nhấp vào mục tạo để xác nhận. Sau đó chọn mục
+‘Sữa thuộc tính’ để thiết lập:</para>
+<para id="id5732121">o Học viên có tự tham gia nhóm hay phải do
+Thầy Cô phân chia</para>
+<para id="id5732128">o Diễn đàn của mỗi nhóm là dùng riêng hay dùng
+chung</para>
+<para id="id5732134">o Mỗi học viên là thành viên của một nhóm duy
+nhất hay có thể tham gia hơn một nhóm.</para>
+<para id="id5732142">Nhấp nút ‘Thực hiện’</para>
+<para id="id5732147">Thấy Cô có thể dùng chức năng ‘Điền vào nhóm’
+để hệ thống tự động xếp các học viên vào nhóm một cách mặc
+nhiên.</para>
+<para id="id5732157">Hoặc Thầy Cô có thể dùng chức năng ‘Sữa nhóm’
+để thay đổi về:</para>
+<para id="id5732164">Tên nhóm,</para>
+<para id="id5732169">Số thành viên của một nhóm cụ thể,</para>
+<para id="id5732175">Mô tả về nhóm</para>
+<para id="id5732180">Hay chỉ định học viên nào sẽ thuộc nhóm
+này</para>
+<section id="id5732243">
+<title>Bài tập</title>
+<para id="id5732250">
+<figure id="id5732260">
+<media id="idm8896704" alt=""><image src="../../media/Graphic11.png" mime-type="image/png"/></media>
+</figure>
+</para>
+<para id="id5732288">Tạo một bài tập</para>
+<list list-type="bulleted" id="id5732294">
+<item>Nhập tên bài tập</item>
+<item>Mô tả bài tập</item>
+<item>Chọn cách thể hiện bài tập trên 1 trang hay mỗi câu hỏi trên
+một trang</item>
+<item>Chọn 'Thực hiện'</item>
+</list>
+<para id="id5732323">Tiếp theo chọn mục 'Câu hỏi mới' để bắt đầu
+tạo các câu hỏi trắc nghiệm cho bài tập</para>
+<figure id="id5732335">
+<media id="idm1746496" alt=""><image src="../../media/Graphic12.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5732362">Tạo câu hỏi</para>
+<list list-type="bulleted" id="id5732366">
+<item>Nhập câu hỏi</item>
+<item>Nhập chú thích</item>
+<item>Nếu trong câu hỏi có thể hiện hình ảnh thì nhấp nút 'Browse'
+để chọn ảnh</item>
+<item>Chọn dạng câu trả lời, ở đây có nhiều dạng trả lời để
+chọn</item>
+<item>Nhấp 'Thực hiện' để chấp nhận câu hỏi và nhập các câu trả
+lời</item>
+<item>Chọn câu trả lời đúng và điểm cho câu trả lời đúng.</item>
+<item>Các Thầy Cô có thể tự thêm câu trả lời cho từng câu
+hỏi.</item>
+<item>Chọn 'Thực hiện' để hoàn thành.</item>
+</list>
+<para id="id5677078">Sửa câu hỏi</para>
+<list list-type="bulleted" id="id5677082">
+<item>Trong phần danh sách các câu hỏi của bài tập chọn biểu tượng
+cây bút chì phía dưới câu hỏi cần sửa</item>
+<item>Sửa nội dung câu hỏi và câu trả lời.</item>
+<item>Nhấp 'Thực hiện để chấp nhận</item>
+</list>
+<para id="id5677108">Xóa câu hỏi</para>
+<list list-type="bulleted" id="id5677113">
+<item>Chọn biểu tượng chử X màu đỏ phia dưới câu hỏi để xóa câu
+hỏi</item>
+</list>
+<para id="id5677125">Xóa bài tập</para>
+<list list-type="bulleted" id="id5677130">
+<item>Chọn biểu tượng chử X màu đỏ ở cột 'Xóa' cùng dòng với bài
+tập trong phần danh sách các bài tập để xóa</item>
+</list>
+</section>
+<section id="id5677151">
+<title>Thống kê</title>
+<para id="id5677158">Chỉ có người quản trị hệ thống và giáo viên
+mới thấy được phần thống kê, chọn liên kết này Thầy Cô sẽ thấy được
+có bao nhiêu người sử dụng bài giảng, và một số thông tin
+khác.</para>
+<figure id="id5677173">
+<media id="idp1166240" alt=""><image src="../../media/Graphic13.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5677200">Đặt lại thuộc tính bài giảng</para>
+<para id="id5677204">Phần này cho phép Thầy Cô sửa các chi tiết của
+bài giảng, cũng như xóa hoàn tòan bài giảng và quản lý việc truy
+cập đến bài giảng.</para>
+<figure id="id5677217">
+<media id="idm1105888" alt=""><image src="../../media/Graphic14.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5677241">Thay đổi về:</para>
+<list list-type="bulleted" id="id5677246">
+<item>Mã bài giảng</item>
+<item>Tên giáo viên</item>
+<item>Tên bài giảng</item>
+<item>Khoa</item>
+</list>
+<para id="id5677273">Yêu cầu:</para>
+<list list-type="bulleted" id="id5677277">
+<item>Thay đổi mức độ truy cập của bài giảng:
+<list list-type="bulleted" id="id5677288">
+<item>Truy cập bài giảng:
+<list list-type="bulleted" id="id5677295">
+<item>Public: Được phép truy cập bài giảng mà không vần đăng
+ký</item>
+<item>Private: Chỉ những người dùng đã được đăng ký sử dụng bài
+giảng mới xem được bài giảng</item>
+</list></item>
+<item>Đăng ký sử dụng bài giảng
+<list list-type="bulleted" id="id5677323">
+<item>Được phép: Sinh viên có thể tự đăng ký để học bài giảng mà
+không cần đợi giáo viên cho phép</item>
+<item>Không được phép: Sinh viên muốn học bài giảng thì giáo viên
+phải thêm họ vào danh sách người được phép sử dụng bài giảng</item>
+</list></item>
+</list></item>
+</list>
+<para id="id5677342">Hoạt động / Tắt hoạt động các thành phần trong
+bài giảng</para>
+<figure id="id5677352">
+<media id="idp920144" alt=""><image src="../../media/Graphic15.png" mime-type="image/png"/></media>
+</figure>
+<para id="id5677376">Các phần hoạt động xuất hiện có màu ở phần
+phía trên trong trang chính của bài giảng với liên kết có tên Tắt
+hoạt động ở phía dưới.</para>
+<para id="id5677398">Các phần tắt hoạt động xuất hiện với màu xám ở
+phần phía dưới trong trang chính của bài giảng với liên kết có tên
+Hoạt động ở phía dưới.</para>
+<para id="id5677422">Các học viên chỉ nhìn thấy được các phần hoạt
+động.</para>
+<para id="id5677429">Các phần tắt hoạt động sẽ ẩn đối với học
+viên.</para>
+<para id="id5677435">Các giáo viên sẽ quyết định cho học viên thấy
+phần nào của bài giảng.</para>
+<para id="id5677443">Để tắt hoạt động của thành phần nào đó click
+chuột vào liên kết Tắt hoạt động ngay phía dưới tên của thành phần
+đó.</para>
+<para id="id5677462">Để hoạt động thành phần nào đó click chuột vào
+liên kết Hoạt động ngay phía dưới tên của thành phần đó.</para>
+<para id="id5732788">Các giáo viên vẫn có thể sử dụng các thành
+phần bị tắt hoạt động. Các thành phần này chỉ có tác dụng ẩn đối
+với học viên.</para>
+</section>
+</section>
+</content>
+</document>
